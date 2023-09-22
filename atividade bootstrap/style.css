@@ -1,0 +1,15 @@
+.carousel {
+    max-width: 900px;
+}
+
+.produtos {
+    margin: 30px;
+}
+
+.produtos h2 {
+    text-align: center;
+}
+
+.card {
+    margin: 30px;
+}
